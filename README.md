@@ -2,7 +2,7 @@
 
 ### Passionate about programming
 
-💾 I’m currently working as a Front-end developer with Vue.js for a bank company <br/> 
+💾 I’m currently working as a Front-end developer mainly with Vue.js <br/> 
 🌱 I’m currently learning: more Vue.js and Angular <br/> 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-verdu)
 
