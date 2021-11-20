@@ -1,6 +1,6 @@
 ![iamadeveloper-es GitHub profile](https://raw.githubusercontent.com/iamadeveloper-es/iamadeveloper-es/master/header.png)
 
-### I am passionate about programming
+### Passionate about programming
 
 💾 I’m currently working as a Front-end developer with Vue.js for a bank company <br/> 
 🌱 I’m currently learning: more Vue.js and Angular <br/> 
