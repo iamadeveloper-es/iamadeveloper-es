@@ -1,7 +1,6 @@
+![iamadeveloper-es GitHub profile](https://raw.githubusercontent.com/iamadeveloper-es/iamadeveloper-es/master/header.png)
 
-![alt text](https://media-exp1.licdn.com/dms/image/C4D16AQGhPlWJam9LhQ/profile-displaybackgroundimage-shrink_350_1400/0/1561489482613?e=1642636800&v=beta&t=Sjxn0hm3LeYAhsI01SfE8eBsKl3Cox6DEHMjFlJo_co)
-
-### Hi there 👋 I am a developer
+### I am passionate about programming
 
 💾 I’m currently working as a Front-end developer with Vue.js for a bank company <br/> 
 🌱 I’m currently learning: more Vue.js and Angular <br/> 
